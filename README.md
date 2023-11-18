@@ -1,4 +1,4 @@
-# Project Name
+# Bike Sharing Assignment
 > Predicting Model for a Bike Sharing Company - BoomBikes.
 
 
