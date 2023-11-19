@@ -21,9 +21,10 @@
     -   cnt = 996.3916 x yr + 95.5334 x workingday + 1124.5479 x temp -223.4312 x hum -274.5594 x windspeed + 342.0299 x Summer + 527.6650 x Winter + 243.9040 x Sep - 207.2355 x  Mist - 343.9191 x Snow + 4491.3033
 - Summer and Fall Season have observed high utilization of bikes, as compared to other seasons
 - 2019 has observed high utilization of bikes.
-- May, June and Jul have observed high utilization of bikes
+- May till Oct have observed high utilization of bikes
 - Slightly high utilization is observed when there is no holiday
 - Clear, Few clouds, Partly cloudy, Partly cloudy has observed highest utilization of bikes, then comes Mist and cloudy
+-  7th till 10th dates has observed comparatively high utilization of bikes
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
